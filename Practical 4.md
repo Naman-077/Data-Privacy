@@ -1,7 +1,3 @@
-Yes. Your friend’s practical covers the correct requirements, but you **should not submit something that looks like a rewritten copy**. We can make yours substantially different in structure, examples, wording, and practical implementation while still covering **encryption, hashing, and digital signatures**.
-
-A good way to differentiate it is to make it more **practical/implementation-oriented**, rather than mostly theoretical.
-
 # Practical 4: Practical Implementation of Cryptography for Data Privacy
 
 ## Aim
